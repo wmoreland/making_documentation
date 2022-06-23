@@ -1,0 +1,24 @@
+{
+    "editor.fontSize": 16,
+    "editor.fontFamily": "fira sans",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.insertSpaces": true,
+    "editor.wrappingStrategy": "simple",
+    "editor.quickSuggestions": {
+        "other": "off",
+        "comments": "off",
+        "strings": "off"
+    },
+    "pandoc.pdfOptString": "--from markdown --template eisvogel --listings",
+    "cSpell.language": "en-GB",
+    "cSpell.words": [
+        "fimm",
+        "Finke",
+        "Thorburn"
+    ],
+    "cSpell.ignoreWords": [
+        "Eisvogel",
+        "Wagler",
+        "yourusername"
+    ]
+}
